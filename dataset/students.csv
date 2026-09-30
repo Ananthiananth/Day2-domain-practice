@@ -1,0 +1,11 @@
+student_id,name,department,study_hours,attendance,assignment_score,exam_score
+101,Arun,IT,3,85,78,82
+102,Banu,CSE,2,72,65,68
+103,Charan,IT,5,95,92,94
+104,Divya,CSE,1,65,55,58
+105,Eswar,IT,4,88,85,89
+106,Fathima,CSE,6,96,95,97
+107,Gokul,IT,2,70,68,72
+108,Hari,CSE,5,91,90,93
+109,Isha,IT,3,82,80,84
+110,Jaya,CSE,1,60,50,55
